@@ -1,0 +1,139 @@
+{
+  "about_slide": [
+    {
+      "small_title": "about",
+      "image": "../../../assets/img/front/home_slide1.png",
+      "title": "Let's put some happy little bushes on the other side now.",
+      "sub_text": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    }
+  ],
+  "about_collab": [
+    {
+      "image": "../../../assets/img/front/collaborator.png",
+      "small_title": "header",
+      "title": "Let's do it again then, what the heck.",
+      "sub_title": "It's amazing what you can do with a little love in your heart. You need the dark in order to show the light.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    },
+    {
+      "image": "../../../assets/img/front/collab2.png",
+      "small_title": "header",
+      "title": "Let's do it again then, what the heck.",
+      "sub_title": "It's amazing what you can do with a little love in your heart. You need the dark in order to show the light.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    }
+  ],
+  "about_second": [
+    {
+      "image": "../../../assets/img/front/about_second_bg.png",
+      "small_title": "header",
+      "title": "Just like an angel's wing. Everybody's different. Trees are different. ",
+      "sub_title": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    }
+  ],
+  "about_third": [
+    {
+      "image": "../../../assets/img/front/about.png",
+      "small_title": "about",
+      "title": "Let's put some happy little bushes on the other side now.",
+      "sub_title": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    },
+    {
+      "image": "../../../assets/img/front/course1.png",
+      "small_title": "about",
+      "title": "Let's put some happy little bushes on the other side now.",
+      "sub_title": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    }
+  ],
+  "about_fifth": [
+    {
+      "image": "../../../assets/img/front/image 1.png",
+      "small_title": "header",
+      "title": "Let's put some happy little bushes on the other side now. ",
+      "sub_title": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    }
+  ],
+  "about_precious": [
+    {
+      "small_title": "header",
+      "title": "Let's put some happy little bushes on the other side now. ",
+      "sub_title": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "button": {
+        "button1": "Request a Demo",
+        "button2": "Sign Up"
+      }
+    }
+  ],
+  "about_testimonial": [
+    {
+      "image": "../../../assets/img/front/collab2.png",
+      "small_title": "— John Doe, CEO & Founder",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper mattis lorem non. Ultrices praesent amet ipsum justo massa. Eu dolor aliquet risus gravida nunc at feugiat consequat purus."
+    },
+    {
+      "image": "../../../assets/img/front/collab2.png",
+      "small_title": "— John Doe, CEO & Founder",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper mattis lorem non. Ultrices praesent amet ipsum justo massa. Eu dolor aliquet risus gravida nunc at feugiat consequat purus."
+    },
+    {
+      "image": "../../../assets/img/front/collab2.png",
+      "small_title": "— John Doe, CEO & Founder",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper mattis lorem non. Ultrices praesent amet ipsum justo massa. Eu dolor aliquet risus gravida nunc at feugiat consequat purus."
+    }
+  ],
+  "about_video": [
+    {
+      "video": "../../../assets/img/front/sample_video.mp4",
+      "small_title": "For the lack of a better word I call them hangy downs. We'll lay all these little funky little things in there. Let's have a happy little tree in here.",
+      "title": "Content and video",
+      "small_text": "Optional caption if needed"
+    }
+   
+  ],
+  "about_partner": [
+    {
+      "image": "../../../assets/img/front/category2.png"
+    },
+    {
+      "image": "../../../assets/img/front/category3.png"
+    },
+    {
+      "image": "../../../assets/img/front/category2.png"
+    },
+    {
+      "image": "../../../assets/img/front/category3.png"
+    },
+    {
+      "image": "../../../assets/img/front/category2.png"
+    },
+    {
+      "image": "../../../assets/img/front/category3.png"
+    }
+  ]
+}

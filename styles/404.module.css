@@ -1,0 +1,24 @@
+/* styles/404.module.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: black;
+  }
+  
+  /* Define a local class for h1 */
+  .title {
+    font-size: 2rem;
+    color: white;
+  }
+  
+  /* Define a local class for p */
+  .description {
+    margin-top: 1rem;
+    color: white;
+  }
+  
